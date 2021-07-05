@@ -5,8 +5,8 @@ Desarrollador de software, diseño aplicaciones web, moviles y de escritorio.*
 
 - 🔭 &nbsp;&nbsp; Actualmente estoy trabajando en [Dictum](https://dictumpro.com.mx/).
 - 🌱 &nbsp;&nbsp; Actualmente estoy tratando de aprender [DevExpress](https://www.devexpress.com/). 
-- 📫 Contactame **caednicolas2@gmail.com**
-- ⚡ En lo personal: Me gusta mucho leer de nuevas tecnologias, soy malo en las relaciones humanas
+- 📫 &nbsp;&nbsp; Contactame **caednicolas2@gmail.com**
+- ⚡ &nbsp;&nbsp; En lo personal: Me gusta mucho leer de nuevas tecnologias, soy malo en las relaciones humanas
  
 
 ### Redes:
@@ -23,7 +23,7 @@ Desarrollador de software, diseño aplicaciones web, moviles y de escritorio.*
 ## &#x1f4c8; Estadísticas de GitHub
 
 <a href="https://github.com/Juancruzd/Juancruzd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGsusMxd&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LGsusMx&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Juancruzd/Juancruzd">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=LGsusMx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Juancruzd Estadísticas de GitHub" />
